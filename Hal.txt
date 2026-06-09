@@ -1,7 +1,7 @@
 #profile-title:ВПН
 #profile-update-interval: 12
 #subscription-userinfo: expire=3786912000; total=10995116277760; used=0
-#profile-web-page-url: https://t.me/freevpnff
+#support-url: https://t.me/freevpnff
 #announce: Бесплатная VPN-подписка 🚀 Всё, что нужно для комфортного и стабильного доступа в интернет :) @freevpnff
 
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#🇪🇺 LTE | Белые списки
