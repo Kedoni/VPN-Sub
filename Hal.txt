@@ -1,4 +1,4 @@
-#profile-title:ВПН
+#profile-title:Kedoni VPN
 #profile-update-interval: 3
 #subscription-userinfo: expire=3786912000; total=10995116277760; used=0
 #support-url: https://t.me/freevpnff
